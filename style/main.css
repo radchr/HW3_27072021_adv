@@ -1,0 +1,83 @@
+.first{
+  border: 2px solid red;
+  padding-top: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.second{
+  border: 2px solid green;
+  border-radius: 10px;
+}
+
+.title{
+  text-align: center;
+  font-weight: bold;
+
+}
+
+h1{
+  text-align: center;
+}
+
+.foto{
+  /* border: 2px solid red; */
+  padding-left: 40%;
+}
+
+img{
+  
+  border-radius: 50%;
+  /* border: 2px solid blue;
+  border-radius: 50px; */
+  width: 35%;
+  
+}
+
+.mytext{
+  text-align: center;
+  font-style: italic;
+  font-weight: bold;
+  font-size: 18px;
+}
+.bestmovie{
+  font-weight: bold;
+}
+.odd{
+  color:green;
+  font-size: 12px;
+}
+.even{
+  color:red;
+  font-size: 12px;
+}
+
+#face {
+  text-align: center;
+  font-size: 12px;
+  display:block;
+}
+
+
+button{
+  width: 120px;
+  height: 45px;
+  margin-left: 47%;
+  margin-bottom: 10px;
+  border-radius: 5px;
+  box-shadow: 10px 5px 5px red;
+  background: linear-gradient(to top, #fefcea, #f1da36);
+  
+}
+
+button:active{
+  /* width: 120px;
+  height: 45px;
+  margin-left: 47%;
+  margin-bottom: 10px;
+  border-radius: 5px; */
+  box-shadow: none;
+  background: linear-gradient(to left, #f1da36, red );
+}
+
+
